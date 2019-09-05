@@ -1,4 +1,3 @@
-
 import os
 import argparse
 
@@ -14,7 +13,7 @@ def fsu():
     if args.command == longest_path_command:
         lp = longest_path(args.path)
         for p in [lp, os.path.abspath(lp)]:
-            print(f'{p} ({len(p)})')
+            print(f"{p} ({len(p)})")
     else:
         print(f"{args.command} is not a valid command (use -h for help)")
 

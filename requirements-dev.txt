@@ -1,1 +1,4 @@
 pyinstaller
+black
+sphinx
+sphinx-rtd-theme

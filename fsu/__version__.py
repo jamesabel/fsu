@@ -1,2 +1,10 @@
-
-__application_name__ = 'fsu'
+__application_name__ = "fsu"
+__title__ = "fsu"
+__version__ = "0.0.1"
+__description__ = "file system utilities"
+__url__ = "https://github.com/jamesabel/fsu"
+__download_url__ = "https://github.com/jamesabel/fsu/archive/master.zip"
+__author__ = "James Abel"
+__author_email__ = "j@abel.co"
+__license__ = "MIT"
+__copyright__ = "Copyright 2019 James Abel"
